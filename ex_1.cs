@@ -3,7 +3,7 @@ namespace Exercise_1
 {
     class Exercise1
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Console.Write("Hello World");
         }
